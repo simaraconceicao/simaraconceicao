@@ -1,4 +1,4 @@
-### Olá, eu sou a Simara Conceição! 👋
+### Olá, eu sou a Simara Conceição! 👩🏾‍💻
 
 Sou **Engenheira de Software** e **Educadora** apaixonada por inovação. Minha jornada evoluiu do desenvolvimento Fullstack para a fronteira da tecnologia: **Inteligência Artificial Generativa** e **Engenharia de Agentes**.
 
@@ -6,7 +6,7 @@ Atualmente, dedico meu código a explorar o potencial de **Agentes de IA**, **LL
 
 🔭 **Foco Atual:**
 *   🤖 Construção de **Agentes Autônomos** com Google ADK e Python.
-*   ☁️ Soluções Scaláveis e Serverless com **Google Cloud**.
+*   ☁️ Soluções escaláveis e Serverless com **Google Cloud**.
 *   📚 Ensino e mentoria técnica (Pretalab, Reprograma, Aprofunda).
 
 🛠️ **Minha Stack Principal:**
